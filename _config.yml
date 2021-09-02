@@ -9,7 +9,7 @@ baseurl: ""
 permalink: /:slug/
 logo: /assets/logo.png
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-redirect-from
