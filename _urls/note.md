@@ -1,3 +1,3 @@
 ---
-redirect_to: https://mem.ai/p/T1JIOpZDr3JY3H8WXehk
+redirect_to: https://thuanpham2311.github.io/noteLinkTut
 ---
