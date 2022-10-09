@@ -9,8 +9,6 @@ baseurl: ""
 permalink: /:slug/
 logo: /assets/avata.jpeg
 
-theme: jekyll-theme-minimal
-
 plugins:
   - jekyll-redirect-from
 
