@@ -7,7 +7,7 @@ version: v0.2
 
 baseurl: ""
 permalink: /:slug/
-logo: assets/logo.webp
+logo: /assets/avata.jpeg
 
 theme: jekyll-theme-minimal
 
