@@ -1,3 +1,3 @@
 ---
-redirect_to: https://thuanpham2311.github.io/noteLinkTut
+redirect_to: https://thuanOwa.github.io/noteLinkTut
 ---

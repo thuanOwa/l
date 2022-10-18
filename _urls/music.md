@@ -1,3 +1,3 @@
 ---
-redirect_to: https://soundcloud.com/thuanpham2311/sets/music-i-like
+redirect_to: https://soundcloud.com/thuanOwa/sets/music-i-like
 ---

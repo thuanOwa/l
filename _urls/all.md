@@ -1,4 +1,4 @@
 ---
 title: links
-redirect_to: https://bio.link/thuanpham2311
+redirect_to: https://bio.link/thuanOwa
 ---
