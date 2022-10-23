@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw
+redirect_to: https://www.youtube.com/channel/UCV46NdzrZABOe3MZGgeCQXQ
 ---
