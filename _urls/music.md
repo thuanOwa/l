@@ -1,3 +1,3 @@
 ---
-redirect_to: https://soundcloud.com/thuanOwa/sets/music-i-like
+redirect_to: https://www.youtube.com/playlist?list=PLcazFfFZIFPld2xu_nAgmbgj5QldQOpUB
 ---
