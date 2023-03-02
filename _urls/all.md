@@ -1,4 +1,4 @@
 ---
 title: links
-redirect_to: https://bio.link/thuanOwa
+redirect_to: https://thuanowa.com
 ---
