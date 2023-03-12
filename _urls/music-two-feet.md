@@ -1,3 +1,3 @@
 ---
-redirect_to: https://www.youtube.com/playlist?list=PLcazFfFZIFPlOzASU-7t1q7HRttaVFKWw
+redirect_to: https://www.youtube.com/playlist?list=PLcazFfFZIFPlnR4dLNSQiuQt4dOEcbacI
 ---
