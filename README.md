@@ -1,4 +1,4 @@
-archive: moving to <github.com/thuanowa/short-url>
+Archive: moving to <https://github.com/thuanowa/short-url>
 
 # URL Shortener
 
